@@ -10,7 +10,7 @@
 <br />
 
 <p align="center"=>
-    <a href="https://github.com/GusRigor/%22%3E<img src="https://img.shields.io/github/followers/fexd12.svg?label=GitHub&style=social" alt="GitHub"></a>&nbsp;&nbsp;
+    <a href="https://github.com/GusRigor/%22%3E<img src="https://img.shields.io/github/followers/GusRigor.svg?label=GitHub&style=social" alt="GitHub"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/gustavo-gomes-rigor-61a983170/<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn</a>
 
 <br />
